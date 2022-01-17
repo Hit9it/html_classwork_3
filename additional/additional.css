@@ -1,0 +1,148 @@
+body{
+    margin: 0;
+    background: #464646;
+}
+.d_flex{
+    display: flex;
+
+}
+h2{
+    margin: 30px;
+    color: white;
+}
+
+.header_frame{
+    height: 100px;
+    width: 610px;
+    margin: 5px;
+    background: #2db5ce;
+    color: white;
+}
+.hero_frame{
+    height: 200px;
+    width: 200px;
+    margin: 5px;
+    background: #ad57f6;
+    color: white;
+}
+.sidebar_frame{
+    height: 400px;
+    width: 200px;
+    margin: 5px;
+    background: #73a61e;
+    color: white;
+}
+.main_cont_frame{
+    height: 400px;
+    width: 400px;
+    margin: 5px;
+    background: #e5b00e;
+    color: white;
+}
+.extra_cont_frame{
+    height: 200px;
+    width: 400px;
+    margin: 5px;
+    background: #b24343;
+    color: white;
+}
+.rel_img_frame{
+    height: 100px;
+    width: 450px;
+    margin: 5px;
+    background: #3ac281;
+    color: white;
+}
+.Post_frame{
+    height: 100px;
+    width: 150px;
+    margin: 5px;
+    background: #f62e8a;
+    color: white;
+}
+
+
+.div_father{
+    background: #b92222;
+}
+.div_child{
+    width: 1200px;
+
+    margin: auto;
+    background: #a8a0a0;
+}
+.header_circle{
+    height: 100px;
+    width: 100px;
+    margin: 50px 0 0 50px;
+    background: #464242;
+    border-radius: 50%;
+}
+.header_button_left{
+    width: 1000px;
+    flex-direction: row-reverse;
+}
+.header_button{
+    height: 50px;
+    width: 150px;
+    margin: 70px 0 0 50px;
+    background: #464242;
+    border-radius: 50px;
+}
+.hero_red{
+ margin-top: 300px;
+}
+.line{
+    height: 50px;
+    width: 600px;
+    margin: 10px 0 0 300px;
+    padding: 15px;
+}
+.hero_red_search{
+    height: 50px;
+    width: 600px;
+    margin: 50px 0 0 300px;
+    background: #dadada;
+    border-radius: 50px;
+}
+.hero_red_button{
+    height: 70px;
+    width: 200px;
+    position: relative;
+    left: 450px;
+    bottom: 10px;
+    background: #464242;
+    border-radius: 50px;
+}
+.destination{
+    background: white;
+    margin-top: 300px;
+}
+.block_small{
+    height: 300px;
+    width: 385px;
+    margin: 10px 0 0 10px;
+    background: #a79f9f;
+    text-align: center;
+
+}
+.block_long{
+    height: 300px;
+    width: 780px;
+    margin: 10px 0 0 10px;
+    background: #a79f9f;
+    text-align: center;
+}
+.small_block{
+    margin: 20px 0 0 30px;
+}
+.small_circle{
+    height: 50px;
+    width: 50px;
+    margin-left: 20px;
+    background: #464242;
+    border-radius: 50%;
+}
+.dop>.block_small{
+    margin-bottom: 5px;
+}
